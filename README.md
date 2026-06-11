@@ -1,3 +1,6 @@
+**What's this for? [read here](https://muchane.net/blog/frontier-code-dataset/)**
+
+
 # swh_resolver
 
 Resolve code metadata `(repo, commit_prefix, rel_path)` to **Software Heritage content
